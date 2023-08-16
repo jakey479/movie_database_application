@@ -1,0 +1,22 @@
+[
+    {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "Director": "Ridley Scott",
+        "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+        "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "imdbRating": "8.5",
+        "My Rating": "9"
+    },
+    {
+        "Title": "A Beautiful Mind",
+        "Year": "2001",
+        "Director": "Ron Howard",
+        "Actors": "Russell Crowe, Ed Harris, Jennifer Connelly",
+        "Plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "imdbRating": "8.2",
+        "My Rating": "N/A"
+    }
+]
