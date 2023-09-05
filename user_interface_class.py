@@ -1,6 +1,3 @@
-
-
-
 class UserInterface:
 
     def return_menu_selection(self) -> str:
